@@ -1,0 +1,7 @@
+# projects section data
+- name: Templates and configurations tailored for different tools and technologies
+  gh_user: devopsvision
+  repo: firelabs
+  #img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
+  img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
+  desc: templates and configurations tailored for different tools and technologies

@@ -1,0 +1,38 @@
+# Site settings
+title: DevOps Vision
+description: 'Collaboration, Culture & Cloud '
+url: 'https://devopsvision.3tb.com.br'
+baseurl: ''
+profilepic: '/images/DevOpsVision.png'
+bkimage: '/images/bk1.jpg'
+google_analytics: UA-XXXXXX-X
+font_awesome: 'XXXXXXXXXX.js'
+
+author:
+  name: 'LUIZ'
+  twitter_username: devopsvision
+  github_username:  DevOpsVisionX
+  linkedin_username:  isweluiz
+  youtube: devopsvisionX
+  #email: 
+  # mastodon: 
+  # facebook_username: 
+  # meetup_name: 
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
